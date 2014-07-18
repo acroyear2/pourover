@@ -1,0 +1,7 @@
+{
+	"name": "pourover",
+	"repository": "acroyear2/pourover",
+	"scripts": [
+		"pourover.js"
+	]
+}
