@@ -1,4 +1,4 @@
-var PourOver = (function(){
+var PourOver = (function(_){
 
     PourOver = {
       // Utility functions. Skip down to "Collections" for the real meat of PourOver.
@@ -1722,4 +1722,4 @@ var PourOver = (function(){
       });
 
     return PourOver;
-})();
+})(require('underscore'));
